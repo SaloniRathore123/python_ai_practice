@@ -43,9 +43,6 @@ Thumbs.db
 # Environment files
 .env
 
-# Project to exclude (already pushed separately)
-project_feedback_analyzer/
-
 # SQLite databases
 *.db
 *.sqlite
