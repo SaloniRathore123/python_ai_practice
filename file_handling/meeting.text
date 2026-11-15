@@ -1,0 +1,9 @@
+Production Meeting - 17 November
+
+Chatty Mccall (Real-Time Messaging & WebSocket Engineer): Responsible for setting up WebSocket connections, handling real-time message delivery, typing indicators, and socket event listeners.
+
+Vector Davis (Database & Message History Architect): Responsible for designing PostgreSQL database schemas, managing message persistence, and optimizing message history retrieval.
+
+Authie Secor (Authentication & Security Specialist): Responsible for implementing secure user login/signup flows, JWT session management, and password hashing.
+
+Interface Ives (Frontend UI & Chat Dashboard Developer): Responsible for building responsive chat bubbles, channel navigation bars, and the overall user interface using React and Tailwind CSS.
